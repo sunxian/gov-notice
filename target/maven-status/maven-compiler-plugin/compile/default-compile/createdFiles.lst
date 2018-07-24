@@ -1,0 +1,4 @@
+com\gov\notice\gov_notice\entity\GovNotice.class
+com\gov\notice\gov_notice\Server.class
+com\gov\notice\gov_notice\controller\NoticeController.class
+com\gov\notice\gov_notice\repository\GovNoticeRepository.class
